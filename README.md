@@ -1,3 +1,7 @@
+[![GitHub stars](https://img.shields.io/github/stars/Aroojfatima-Dev/graphic-design-portfolio?style=social)](https://github.com/Aroojfatima-Dev/graphic-design-portfolio/stargazers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Design](https://img.shields.io/badge/Design-Portfolio-ff69b4)]()
+
 # Graphic Design Portfolio
 
 A collection of business cards, logos, and social media marketing designs created using AI-assisted design tools and prompt engineering.
